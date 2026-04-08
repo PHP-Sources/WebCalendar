@@ -16,7 +16,8 @@
 
 👉 **[📂 Explorer WebCalendar 1.2.7](https://phpsources.net/x7g3p2.php?id=2058&name=webcalendar-1.2.7.zip)**
 
-**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :**  
+**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :**
+
 👉 **[WebCalendar sur phpsources.net](https://phpsources.net/script/php/calendriers/2058-2_webcalendar,1.2.7)**
 
 ### Licence
